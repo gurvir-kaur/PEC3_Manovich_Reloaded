@@ -17,9 +17,10 @@ Tal como explica Ferran y según Lev Manovich, la hibridación de medios es un p
 
 Esto lo vemos claro con el siguiente ejemplo de un medio híbrido mencionado por Manovich: **Google Earth**
 
-<image src="/img/hibridacion.png" alt="Imagen hibridacion" width="250px" height="200px" margin="0px"> <image src="/img/hibridacion.png" alt="Imagen hibridacion" width="250px" height="200px" margin="0px">
+<image src="/img/fotografia_aerea.jpg" alt="Fotografia aerea" width="250px" height="200px" caption="blog.foto24.com"> <image src="/img/imagenes_satelitales.jpg" alt="Imagenes satelitales" width="250px" height="200px" caption="agrawdata.com"> <image src="/img/globe_3D.png" alt="Globo 3D" width="200px" height="200px" caption="freepik.es"> <image src="/img/Google_Earth.jpg" alt="Google earth" width="290px" height="200px" caption="lavanguardia.com">
 
-Lorem ipsum dolor sit amet,
+
+
 
 
 ## Re-descubriendo la hibridacion: Kahoot
