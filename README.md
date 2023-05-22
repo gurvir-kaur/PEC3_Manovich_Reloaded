@@ -5,7 +5,7 @@
 
 Autor: Gurvir Kaur
 
-Fecha: 16/05/2023
+Fecha: 22/05/2023
 
 ---
  
@@ -23,23 +23,24 @@ Esto lo vemos claro con el siguiente ejemplo de un medio híbrido mencionado por
 <image src="/img/fotografia_aerea.jpg" alt="Fotografia aerea" width="200px" height="150px" caption="blog.foto24.com"> <image src="/img/imagenes_satelitales.jpg" alt="Imagenes satelitales" width="200px" height="150px" caption="agrawdata.com"> <image src="/img/globe_3D.png" alt="Globo 3D" width="150px" height="150px" caption="freepik.es">   <image src="/img/Google_Earth.jpg" alt="Google earth" width="240px" height="150px" caption="lavanguardia.com">
  
  
->Google Earth combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D, fotografía fija y otros medios para crear una representación híbrida que los ingenieros de Google llaman una interfaz en 3D del planeta. (Manovich, 2013)
+>Google Earth combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D, fotografía fija y otros medios para crear una representación híbrida que los ingenieros de Google llaman `<<`una interfaz en 3D del planeta`>>`. (Manovich, 2013)
 
 ---
  
-**Objetivo:** el objetivo de este repositorio es presentar un ensayo en el cual se explican dos casos de hibridación a través de las gafas de Manovich. Así pues, los dos seleccionados para este estudio son [**Kahoot**](https://kahoot.com/) y [**Pocket gallery**](https://artsandculture.google.com/pocketgallery/IQUxrMnvNro2DQ). 
+**OBJETIVO:** 
+El objetivo de este repositorio es presentar un ensayo en el cual se explican dos casos de hibridación a través de las gafas de Manovich. Así pues, los dos ejemplos de hibridación seleccionados para este estudio son [**Kahoot**](https://kahoot.com/) y [**Pocket gallery**](https://artsandculture.google.com/pocketgallery/IQUxrMnvNro2DQ). 
 
 ---
  
 ## Re-descubriendo la hibridacion: Kahoot
 
-Lorem ipsum dolor sit amet, 
+ 
 
 
 
 ## Re-descubriendo la hibridacion: Pocket gallery
 
-Lorem ipsum dolor sit amet, 
+ 
 
 
 ### Referencias y Bibliografía
@@ -51,10 +52,10 @@ Lorem ipsum dolor sit amet,
 * Hibridación, RAE [consultado: 18/05/2023]. Disponible en: https://dle.rae.es/hibridación
  
 ### Imágenes
- * (Fotografía aérea, [Blog.foto24](https://blog.foto24.com/fotografia-aerea-consejos-basicos/))
- * (Imágenes satelitales, [Agrawdata](https://agrawdata.com/teledeteccion-imagenes-satelitales-agricultura/))
- * (Gráfico en 3D, [freepik](https://www.freepik.es/vector-premium/globo-poligonal-3d-conexiones-globales_4992214.htm))
- * (Google Earth,[Google](https://www.google.com/intl/es/earth/))
+ * Fotografía aérea, [Blog.foto24](https://blog.foto24.com/fotografia-aerea-consejos-basicos/)
+ * Imágenes satelitales, [Agrawdata](https://agrawdata.com/teledeteccion-imagenes-satelitales-agricultura/)
+ * Gráfico en 3D, [freepik](https://www.freepik.es/vector-premium/globo-poligonal-3d-conexiones-globales_4992214.htm)
+ * Google Earth, [Google](https://www.google.com/intl/es/earth/)
 
 
 ----
