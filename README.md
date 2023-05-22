@@ -13,7 +13,7 @@ Fecha: 16/05/2023
 
 Si buscamos el término “Hibridación” en un diccionario, encontraremos la típica definición de que hibridación es una **producción de seres híbridos** o *(Biol.)* **fusión de dos células de distinta** pero en la cultura digital **¿qué significa este término?**
 
- >La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. [**(Ferran Adell)**](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+ >La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. [(Ferran Adell)](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
 Tal como explica Ferran y según Lev Manovich, la hibridación de medios es un proceso de fusión de los medios que da resultado a un medio híbrido. En otras palabras, la hibridación de medios es la combinación de dos o más medios de diferente tipo y la creación resultado de esta combinación tiene distintas formas y siempre se pueden identificar los medios que la constituyen. [(Hibridación de medios, Wikipedia)](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
 
@@ -27,7 +27,7 @@ Esto lo vemos claro con el siguiente ejemplo de un medio híbrido mencionado por
 
 ---
  
-**Objetivo:** el objetivo de esta actividad es estudiar dos casos de hibridación moderna. 
+**Objetivo:** el objetivo de este repositorio es presentar un ensayo en el cual se explican dos casos de hibridación a través de las gafas de Manovich. Así pues, los dos seleccionados para este estudio son [**Kahoot**](https://kahoot.com/) y [**Pocket gallery**](https://artsandculture.google.com/pocketgallery/IQUxrMnvNro2DQ). 
 
 ---
  
