@@ -20,7 +20,7 @@ Tal como explica Ferran y según Lev Manovich, la hibridación de medios es un p
 Esto lo vemos claro con el siguiente ejemplo de un medio híbrido mencionado por Manovich: [**Google Earth**](https://www.google.com/intl/es/earth/).
 
  
-<image src="/img/fotografia_aerea.jpg" alt="Fotografia aerea" width="200px" height="150px" caption="blog.foto24.com"> <image src="/img/imagenes_satelitales.jpg" alt="Imagenes satelitales" width="200px" height="150px" caption="agrawdata.com"> <image src="/img/globe_3D.png" alt="Globo 3D" width="150px" height="150px" caption="freepik.es"> <image src="/img/arrow.png" alt="Flecha" width="180px" height="150px" caption="vecteezy.com" > <image src="/img/Google_Earth.jpg" alt="Google earth" width="240px" height="150px" caption="lavanguardia.com">
+<image src="/img/fotografia_aerea.jpg" alt="Fotografia aerea" width="100px" height="50px" caption="blog.foto24.com"> <image src="/img/imagenes_satelitales.jpg" alt="Imagenes satelitales" width="100px" height="50px" caption="agrawdata.com"> <image src="/img/globe_3D.png" alt="Globo 3D" width="50px" height="50px" caption="freepik.es"> <image src="/img/arrow.png" alt="Flecha" width="80px" height="50px" caption="vecteezy.com" > <image src="/img/Google_Earth.jpg" alt="Google earth" width="140px" height="50px" caption="lavanguardia.com">
  
  
 >Google Earth combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D, fotografía fija y otros medios para crear una representación híbrida que los ingenieros de Google llaman una interfaz en 3D del planeta. (Manovich, 2013)
