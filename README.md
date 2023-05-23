@@ -43,12 +43,14 @@ A continuación, se muestran algunos ejemplos de multimedia:
  
 ## Re-descubriendo la hibridacion: Kahoot
 
+<image src="/img/Kahoot_Logo.png" alt="Logo de Kahoot" width="auto" height="auto">
  
 
 
 
 ## Re-descubriendo la hibridacion: Pocket gallery
 
+<image src="/img/google_pocket_gallery.jpg" alt="Google Pocket Gallery" width="auto" height="auto">
  
 
 
