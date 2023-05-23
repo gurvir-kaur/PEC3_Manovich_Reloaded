@@ -38,19 +38,19 @@ Antes de avanzar con el estudio de los casos, es necesario aclarar la diferencia
  
 A continuación, se muestran algunos ejemplos de multimedia:
  
-<image src="/img/webs.jpg" alt="web"  width="270px" height="170px">    <image src="/img/bloggerjpg.jpg" alt="blog"  width="270px" height="170px">    <image src="/img/website.png" alt="website" width="270px" height="170px">
+<image src="/img/webs.jpg" alt="web"  width="250px" height="150px">    <image src="/img/bloggerjpg.jpg" alt="blog"  width="250px" height="150px">    <image src="/img/website.png" alt="website" width="250px" height="150px">
  >Una típica página web de los dos mil es un ejemplo de multimedia, como lo es la típica presentación de PowerPoint.[...] En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; [...] (Manovich, 2013)
  
 ## Re-descubriendo la hibridacion: Kahoot
 
-<image src="/img/Kahoot_Logo.png" alt="Logo de Kahoot" width="600" height="300">
+<image src="/img/Kahoot_Logo.png" alt="Logo de Kahoot" width="auto" height="auto">
  
 
 
 
 ## Re-descubriendo la hibridacion: Pocket gallery
 
-<image src="/img/google_pocket_gallery.jpg" alt="Google Pocket Gallery" width="600" height="300">
+<image src="/img/google_pocket_gallery.jpg" alt="Google Pocket Gallery" width="auto" height="auto">
  
 
 
