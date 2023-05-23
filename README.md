@@ -44,15 +44,30 @@ A continuación, se muestran algunos ejemplos de multimedia:
 ## Re-descubriendo la hibridacion: Kahoot
 
 <image src="/img/Kahoot_Logo.png" alt="Logo de Kahoot" width="auto" height="auto">
+
+Kahoot! es una aplicación educativa que permite aprender a través de juegos (cuestionarios de evaluación interactivos). Es una herramienta que ofrecer una variedad de opciones para crear **concursos** para aprender o reforzar el aprendizaje. Se puede utilizar tanto en educación como en el ámbito profesional. Fue fundado por en un proyecto realizado en conjunto con la Universidad Noruega de Ciencia y Tecnología en Trondheim, Noruega. (Kahoot!, Wikipedia)
+
+### Funcionamiento
  
+El funcionamiento de Kahoot! se puede dividir en dos parte: **preparación del test** y **jugar a un Kahoot!**. En el primer caso, se necesario crear una cuenta en Kahoot! y después se puede crear el juego de tipo test. El proceso de crear cuestionarios nuevos es muy sencillo, simplemente se debe seguir las instrucciones que facilita la propia herramienta. Trás haber creado el juego, el siguiente paso es jugar a un Khaoot!. Para ello, el profesor o moderador debe abrir la aplicaión en un ordenadorn y elegir el modo de juego. Así, se generará el código PIN del juego, que se muestrará en la parte superior de la pantalla grande. Una vez creado el cuestionario, los jugadores pueden acceder al juego en otra página web [Kahoot.it](https://kahoot.it/) a la que accederán desde sus dispositivos móviles o a través de la App.
 
+### Características
+ 
+Esta aplicación se engloba dentro del **aprendizaje móvil electrónico** (M-learning en inglés) y de la **ludificación** (Gamification en inglés), así permitiendo al alumnado aprender por medio del juego pero fuera de un contexto lúdico. La idea principal es que el alumno aprenda jugando dentro del aula para que la experiencia de aprendizaje sea más motivadora.
 
+### Análisis
 
+Tal como dice Lev Manovich, [...] *los híbridos de medios suelen presentar contenido de medios diferentes, se trata tan solo de uno de sus aspectos esenciales*. De mismo modo, Kahoot! combina el aprendizaje y la ludificaicón en una única aplicación que permite experiencias de aprendizaje accesibles, significativas y lúdicas. *En este caso la experiencia es una, unificada en un mismo entorno de reproducción, los elementos -a pesar de ser de diferentes tipos- comparten las mismas técnicas para ser reproducidos en conjunto, unos fusionados con otros (hibridados), aportando cada uno sus potencialidades a la experiencia global de la comunicación con el usuario* (Ferran Adell). 
+ 
 ## Re-descubriendo la hibridacion: Pocket gallery
 
 <image src="/img/google_pocket_gallery.jpg" alt="Google Pocket Gallery" width="auto" height="auto">
  
+### Funcionamiento
 
+### Características
+
+### Análisis
 
 ### Referencias y Bibliografía
 
@@ -61,6 +76,9 @@ A continuación, se muestran algunos ejemplos de multimedia:
 * Denis Rasulev, 2022, **Cómo añadir una imagen a un Markdown** [consultado 19/05/2023]. Disponible en: https://denshub.com/es/hugo-post-insert-image/
 * **Hibridación de medios**, Wikipedia: la enciclopedia libre [consultado: 18/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Hibridación_de_medios
 * Hibridación, RAE [consultado: 18/05/2023]. Disponible en: https://dle.rae.es/hibridación
+* IVÁN RAMÍREZ, **Kahoot!: qué es, para qué sirve y cómo funciona**. Xataka [consultado: 20/05/2023]. Disponible en: https://www.xataka.com/basics/kahoot-que-es-para-que-sirve-y-como-funciona
+* **Kahoot!**, Wikipedia: la enciclopedia libre [consultado: 20/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Kahoot!
+ 
  
 ### Imágenes
  * Fotografía aérea, [Blog.foto24](https://blog.foto24.com/fotografia-aerea-consejos-basicos/)
