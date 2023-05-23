@@ -63,6 +63,10 @@ Tal como dice Lev Manovich, [...] *los híbridos de medios suelen presentar cont
 
 <image src="/img/google_pocket_gallery.jpg" alt="Google Pocket Gallery" width="auto" height="auto">
  
+>Otro tipo de aplicaciones híbridas que podemos encontrar en la Red son las que nos permiten visualizar datos en entornos dinámicos e interactivos, para mostrarlos al público generando nuevos puntos de vista y potenciando nuevas formas de anàlisis...(Ferran Adell)
+
+El segundo caso de hibridación es la aplicación de Google Arts&Culture, Pocket Gallery. Es una herramienta que posea el poder de poder observar algunas de las mejores obras de arte del mundo en realidad aumentada, expuestas y curadas en una galería personal, sin salir de la casa. Fue fundada por Google Arts&Culture para crear una experiencia excepcional con la tecnología moderna y permitir crear exhibiciones inmersivas y recorridos virtuales. Además, tiene una audio guía, clásicas obras del Museo Getty, Arte Contemporaneo Africano de la Colección de Jean Pigozzi... 
+ 
 ### Funcionamiento
 
 ### Características
@@ -71,25 +75,27 @@ Tal como dice Lev Manovich, [...] *los híbridos de medios suelen presentar cont
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Ferran Adell, **Remediación, multimedia e hibridación de los medios** [consultado 18/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Amit Sood, **Taking curation to the next level with Pocket Gallery Editor** [consultado: 23/05/2023]. Disponible en: https://blog.google/outreach-initiatives/arts-culture/taking-curation-to-the-next-level-with-pocket-gallery-editor/
 * Denis Rasulev, 2022, **Cómo añadir una imagen a un Markdown** [consultado 19/05/2023]. Disponible en: https://denshub.com/es/hugo-post-insert-image/
+* Ferran Adell, **Remediación, multimedia e hibridación de los medios** [consultado 18/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * **Hibridación de medios**, Wikipedia: la enciclopedia libre [consultado: 18/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Hibridación_de_medios
 * Hibridación, RAE [consultado: 18/05/2023]. Disponible en: https://dle.rae.es/hibridación
 * IVÁN RAMÍREZ, **Kahoot!: qué es, para qué sirve y cómo funciona**. Xataka [consultado: 20/05/2023]. Disponible en: https://www.xataka.com/basics/kahoot-que-es-para-que-sirve-y-como-funciona
 * **Kahoot!**, Wikipedia: la enciclopedia libre [consultado: 20/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Kahoot!
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* **Pocket Gallery**, Google Arts&Culture [consultado: 22/05/2023]. Disponible en: https://artsandculture.google.com/project/pocket-gallery
  
  
 ### Imágenes
+ * Blog, [nicepage](https://nicepage.com/es/features/c/blog)
  * Fotografía aérea, [Blog.foto24](https://blog.foto24.com/fotografia-aerea-consejos-basicos/)
- * Imágenes satelitales, [Agrawdata](https://agrawdata.com/teledeteccion-imagenes-satelitales-agricultura/)
  * Gráfico en 3D, [freepik](https://www.freepik.es/vector-premium/globo-poligonal-3d-conexiones-globales_4992214.htm)
  * Google Earth, [Google](https://www.google.com/intl/es/earth/)
- * Páginas web del año 2000, [wwwhatsnew](https://wwwhatsnew.com/2018/04/19/la-evolucion-del-hosting-y-del-diseno-web-desde-el-ano-2000/)
- * Blog, [nicepage](https://nicepage.com/es/features/c/blog)
- * Sitio web, [Hubspot](https://blog.hubspot.com/marketing/best-website-designs-list)
+ * Imágenes satelitales, [Agrawdata](https://agrawdata.com/teledeteccion-imagenes-satelitales-agricultura/)
  * Kahoot, [Wikipedia](https://es.wikipedia.org/wiki/Kahoot!)
+ * Páginas web del año 2000, [wwwhatsnew](https://wwwhatsnew.com/2018/04/19/la-evolucion-del-hosting-y-del-diseno-web-desde-el-ano-2000/)
  * Pocket Gallery, [Google Arts&Culture](https://mobile-ar.reality.news/news/google-arts-culture-offers-pocket-gallery-augmented-reality-museum-featuring-picasso-van-gogh-more-0201565/)
+ * Sitio web, [Hubspot](https://blog.hubspot.com/marketing/best-website-designs-list)
 
 
 ----
