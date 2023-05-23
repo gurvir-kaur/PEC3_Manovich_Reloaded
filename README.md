@@ -34,7 +34,9 @@ El objetivo de este repositorio es presentar un ensayo en el cual se explican do
  
 ## Multimedia o híbrido de medios
  
- Antes de avanzar con el estudio de los casos, es necesario aclarar la diferencia entre los términos `medios híbridos` y `multimedia` ya que son dos conceptos distintos. El término multimedia *se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios*, es decir, *los contenidos de cada medio aparecen uno junto otro* (Manovich, 2013). Y, en caso de los híbridos de los medios, los contenidos de cada media *se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno* (Manovich, 2013).
+Antes de avanzar con el estudio de los casos, es necesario aclarar la diferencia entre los términos `medios híbridos` y `multimedia` ya que son dos conceptos distintos. El término multimedia *se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios*, es decir, *los contenidos de cada medio aparecen uno junto otro* (Manovich, 2013). Y, en caso de los híbridos de los medios, los contenidos de cada media *se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno* (Manovich, 2013).
+ 
+Un ejemplo típico de multimedia sería *un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto* (Manovich, 2013), tal y como se muestra en la imagen inferior.
  
 
  
