@@ -68,6 +68,8 @@ Tal como dice Lev Manovich, [...] *los híbridos de medios suelen presentar cont
 El segundo caso de hibridación es la aplicación de Google Arts&Culture, Pocket Gallery. Es una herramienta que posea el poder de poder observar algunas de las mejores obras de arte del mundo en realidad aumentada, expuestas y curadas en una galería personal, sin salir de la casa. Fue fundada por Google Arts&Culture para crear una experiencia excepcional con la tecnología moderna y permitir crear exhibiciones inmersivas y recorridos virtuales. Además, tiene una audio guía, clásicas obras del Museo Getty, Arte Contemporaneo Africano de la Colección de Jean Pigozzi... 
  
 ### Funcionamiento
+ 
+Se puede acceder a las obras de arte en 3D desde la página oficial de Google Arts&Culture - [Pocket Gallery](https://artsandculture.google.com/project/pocket-gallery). Una vez allí, se puede seleccionar el tipo de experiencia que el usuario quiere disfrutar entre Galerías de Arte, Museos de Historia, Exhibiciones de Diseño y Espectáculos Naturales. Cuando se selecciona la galeria se puede entrar en la realidad aumentada y ir navegando por el espacio para poder disfrutar de las obras de artes y escuchar información sobre ellas.
 
 ### Características
 
