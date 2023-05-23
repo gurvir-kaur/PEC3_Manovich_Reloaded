@@ -34,11 +34,11 @@ El objetivo de este repositorio es presentar un ensayo en el cual se explican do
  
 ## Multimedia o híbrido de medios
  
-Antes de avanzar con el estudio de los casos, es necesario aclarar la diferencia entre los términos `medios híbridos` y `multimedia` ya que son dos conceptos distintos. El término multimedia *se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios*, es decir, *los contenidos de cada medio aparecen uno junto otro* (Manovich, 2013). Y, en caso de los híbridos de los medios, los contenidos de cada media *se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno* (Manovich, 2013).
+Antes de avanzar con el estudio de los casos, es necesario aclarar la diferencia entre los términos `medios híbridos` y `multimedia` ya que son dos conceptos distintos. El término multimedia *se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios*, es decir, *los contenidos de cada medio aparecen uno junto otro* (Manovich, 2013). Y, en caso de los híbridos de los medios, los contenidos de cada media *se fusionan para ofrecer una experiencia nueva y coherente*, como es el caso de Google Earth (Manovich, 2013).
  
 A continuación, se muestran algunos ejemplos de multimedia:
  
-<image src="/img/webs.jpg" alt="web"  width="300px" height="200px"> <image src="/img/bloggerjpg.jpg" alt="blog"  width="300px" height="200px"> <image src="/img/website.png" alt="website" width="300px" height="200px">
+<image src="/img/webs.jpg" alt="web"  width="300px" height="200px">    <image src="/img/bloggerjpg.jpg" alt="blog"  width="300px" height="200px">    <image src="/img/website.png" alt="website" width="300px" height="200px">
  >Una típica página web de los dos mil es un ejemplo de multimedia, como lo es la típica presentación de PowerPoint.[...] En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; [...] (Manovich, 2013)
  
 ## Re-descubriendo la hibridacion: Kahoot
@@ -65,6 +65,11 @@ A continuación, se muestran algunos ejemplos de multimedia:
  * Imágenes satelitales, [Agrawdata](https://agrawdata.com/teledeteccion-imagenes-satelitales-agricultura/)
  * Gráfico en 3D, [freepik](https://www.freepik.es/vector-premium/globo-poligonal-3d-conexiones-globales_4992214.htm)
  * Google Earth, [Google](https://www.google.com/intl/es/earth/)
+ * Páginas web del año 2000, [wwwhatsnew](https://wwwhatsnew.com/2018/04/19/la-evolucion-del-hosting-y-del-diseno-web-desde-el-ano-2000/)
+ * Blog, [nicepage](https://nicepage.com/es/features/c/blog)
+ * Sitio web, [Hubspot](https://blog.hubspot.com/marketing/best-website-designs-list)
+ * Kahoot, [Wikipedia](https://es.wikipedia.org/wiki/Kahoot!)
+ * Pocket Gallery, [Google Arts&Culture](https://mobile-ar.reality.news/news/google-arts-culture-offers-pocket-gallery-augmented-reality-museum-featuring-picasso-van-gogh-more-0201565/)
 
 
 ----
