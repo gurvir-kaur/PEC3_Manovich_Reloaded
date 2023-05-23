@@ -38,7 +38,7 @@ Antes de avanzar con el estudio de los casos, es necesario aclarar la diferencia
  
 Un ejemplo típico de multimedia sería *un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto* (Manovich, 2013), tal y como se muestra en la imagen inferior.
  
-
+<image src="/img/blog.jpg" alt="blog">
  
 ## Re-descubriendo la hibridacion: Kahoot
 
