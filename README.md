@@ -79,6 +79,14 @@ Esta herramienta digital permite visitar exposiciones y museos 3D virtuales en g
 
 >Pocket Gallery: a un clic de museos 3D virtuales en Google [(Fer Garrido)](https://www.dondeir.com/tecnologia/museos-3d-virtuales-con-google-pocket-gallery/2023/05/)
  
+Según Lev Manovich, *se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones*. De mismo modo, en caso de Pocket Gallery se puede observar que esta tecnología combina una **representación de galerias y/o museos en mundo virtual**, **audio guía**, **navegación** como en *Google Street View* y otros elementos.
+
+<image src="/img/dentroArtGallery.png" alt="Logo de Kahoot" width="auto" height="auto">
+ 
+### Conclusión
+
+
+ 
 ### Referencias y Bibliografía
 
 * Amit Sood, **Taking curation to the next level with Pocket Gallery Editor** [consultado: 23/05/2023]. Disponible en: https://blog.google/outreach-initiatives/arts-culture/taking-curation-to-the-next-level-with-pocket-gallery-editor/
