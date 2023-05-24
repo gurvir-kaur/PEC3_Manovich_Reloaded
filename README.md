@@ -11,7 +11,7 @@ Fecha: 22/05/2023
  
 ## Planteamiento
 
-Si buscamos el término “Hibridación” en un diccionario, encontraremos la típica definición de que hibridación es una **producción de seres híbridos** o *(Biol.)* **fusión de dos células de distinta** pero en la cultura digital **¿qué significa este término?**
+Si buscamos el término “Hibridación” en un diccionario, encontraremos la típica definición de hibridación: una **producción de seres híbridos** o *(Biol.)* **fusión de dos células de distinta** pero en la cultura digital **¿qué significa este término?**
 
  >La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. [(Ferran Adell)](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
@@ -28,7 +28,7 @@ Esto lo vemos claro con el siguiente ejemplo de un medio híbrido mencionado por
 ---
  
 **OBJETIVO:** 
-El objetivo de este repositorio es presentar un ensayo en el cual se explican dos casos de hibridación a través de las gafas de Manovich. Así pues, los dos ejemplos de hibridación seleccionados para este estudio son [**Kahoot**](https://kahoot.com/) y [**Pocket gallery**](https://artsandculture.google.com/pocketgallery/IQUxrMnvNro2DQ). 
+El objetivo de este repositorio es presentar un ensayo en el cual se explican dos casos de hibridación a través de las gafas de Manovich. Así pues, los dos ejemplos de hibridación seleccionados para este estudio son [**Kahoot!**](https://kahoot.com/) y [**Pocket gallery**](https://artsandculture.google.com/pocketgallery/IQUxrMnvNro2DQ). 
 
 ---
  
@@ -41,7 +41,7 @@ A continuación, se muestran algunos ejemplos de multimedia:
 <image src="/img/webs.jpg" alt="web"  width="250px" height="150px">    <image src="/img/bloggerjpg.jpg" alt="blog"  width="250px" height="150px">    <image src="/img/website.png" alt="website" width="250px" height="150px">
  >Una típica página web de los dos mil es un ejemplo de multimedia, como lo es la típica presentación de PowerPoint.[...] En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; [...] (Manovich, 2013)
  
-## Re-descubriendo la hibridacion: Kahoot
+## Re-descubriendo la hibridacion: Kahoot!
 
 <image src="/img/Kahoot_Logo.png" alt="Logo de Kahoot" width="auto" height="auto">
 
@@ -49,7 +49,7 @@ Kahoot! es una aplicación educativa que permite aprender a través de juegos (c
 
 ### Funcionamiento
  
-El funcionamiento de Kahoot! se puede dividir en dos parte: **preparación del test** y **jugar a un Kahoot!**. En el primer caso, se necesario crear una cuenta en Kahoot! y después se puede crear el juego de tipo test. El proceso de crear cuestionarios nuevos es muy sencillo, simplemente se debe seguir las instrucciones que facilita la propia herramienta. Trás haber creado el juego, el siguiente paso es jugar a un Khaoot!. Para ello, el profesor o moderador debe abrir la aplicaión en un ordenadorn y elegir el modo de juego. Así, se generará el código PIN del juego, que se muestrará en la parte superior de la pantalla grande. Una vez creado el cuestionario, los jugadores pueden acceder al juego en otra página web [Kahoot.it](https://kahoot.it/) a la que accederán desde sus dispositivos móviles o a través de la App.
+El funcionamiento de Kahoot! se puede dividir en dos parte: **preparación del test** y **jugar a un Kahoot!**. En la primera parte, se necesario crear una cuenta en Kahoot! y después crear el juego de tipo test. El proceso de crear cuestionarios nuevos es muy sencillo, simplemente se debe seguir las instrucciones que facilita la propia herramienta. Trás haber creado el juego, el siguiente paso es jugar a un Khaoot!. Para ello, el profesor o moderador debe abrir la aplicaión en un ordenadorn y elegir el modo de juego. Así, se generará el código PIN del juego, que se muestrará en la parte superior de la pantalla grande. Una vez hecho esto, los jugadores pueden acceder al juego en otra página web [Kahoot.it](https://kahoot.it/) a la que accederán desde sus dispositivos móviles o a través de la App.
 
 ### Características
  
@@ -65,11 +65,11 @@ Tal como dice Lev Manovich, [...] *los híbridos de medios suelen presentar cont
  
 >Otro tipo de aplicaciones híbridas que podemos encontrar en la Red son las que nos permiten visualizar datos en entornos dinámicos e interactivos, para mostrarlos al público generando nuevos puntos de vista y potenciando nuevas formas de anàlisis...(Ferran Adell)
 
-El segundo caso de hibridación es la aplicación de Google Arts&Culture, Pocket Gallery. Es una herramienta que posea el poder de poder observar algunas de las mejores obras de arte del mundo en realidad aumentada, expuestas y curadas en una galería personal, sin salir de la casa. Fue fundada por Google Arts&Culture para crear una experiencia excepcional con la tecnología moderna y permitir crear exhibiciones inmersivas y recorridos virtuales. Además, tiene una audio guía, clásicas obras del Museo Getty, Arte Contemporaneo Africano de la Colección de Jean Pigozzi... 
+El segundo caso de hibridación es la aplicación de Google Arts&Culture, Pocket Gallery. Es una herramienta que posea el poder de poder observar algunas de las mejores obras de arte del mundo en **realidad aumentada**, expuestas y curadas en una galería personal, sin salir de la casa. Fue fundada por Google Arts&Culture para crear una experiencia excepcional con la tecnología moderna y permitir crear exhibiciones inmersivas y recorridos virtuales. Además, tiene una audio guía, clásicas obras del Museo Getty, Arte Contemporaneo Africano de la Colección de Jean Pigozzi... 
  
 ### Funcionamiento
  
-Se puede acceder a las obras de arte en 3D desde la página oficial de Google Arts&Culture - [Pocket Gallery](https://artsandculture.google.com/project/pocket-gallery). Una vez allí, se puede seleccionar el tipo de experiencia que el usuario quiere disfrutar entre Galerías de Arte, Museos de Historia, Exhibiciones de Diseño y Espectáculos Naturales. Cuando se selecciona la galeria se puede entrar en la realidad aumentada y ir navegando por el espacio para poder disfrutar de las obras de artes y escuchar información sobre ellas.
+Se puede acceder a las obras de arte en 3D desde la página oficial de Google Arts&Culture - [Pocket Gallery](https://artsandculture.google.com/project/pocket-gallery). Una vez allí, se puede seleccionar el tipo de experiencia que el usuario quiere disfrutar entre Galerías de Arte, Museos de Historia, Exhibiciones de Diseño y Espectáculos Naturales. Cuando se selecciona la galeria se puede entrar en la realidad aumentada e ir navegando por el espacio para poder disfrutar de las obras de artes y escuchar información sobre ellas.
 
 ### Características
 
@@ -83,7 +83,7 @@ Según Lev Manovich, *se agrupan técnicas y formatos de representación de medi
 
 <image src="/img/dentroArtGallery.png" alt="Logo de Kahoot" width="auto" height="auto">
 
- <hr> 
+--- 
  
 ### Referencias y Bibliografía
 
