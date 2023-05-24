@@ -1,6 +1,6 @@
-# <image src="/img/Logo_blau_uoc.png" alt="Logo de UOC" width="40px" height="35px" margin="0px"> PEC3: Visionando el futuro con las gafas de Manovich  
+# PEC3: Visionando el futuro con las gafas de Manovich  
 
-### 20.644 - Cultura Digital aula 1 
+### <image src="/img/Logo_blau_uoc.png" alt="Logo de UOC" width="25px" height="20px" margin="0px"> 20.644 - Cultura Digital aula 1 
 
 
 Autor: Gurvir Kaur
@@ -73,8 +73,12 @@ Se puede acceder a las obras de arte en 3D desde la página oficial de Google Ar
 
 ### Características
 
+Esta herramienta digital permite visitar exposiciones y museos 3D virtuales en google. Las instituciones culturales pueden presentar sus colecciones en galerias 3D virtuales a través de esta plataforma. Además, pueden personalizar **texto**, **audios**, **dimensiones** y **esquemas de colores** con el fin de abrir nuevas oportunidades para nuevos espacios con nuevas narrativas culturales. 
+ 
 ### Análisis
 
+>Pocket Gallery: a un clic de museos 3D virtuales en Google [(Fer Garrido)](https://www.dondeir.com/tecnologia/museos-3d-virtuales-con-google-pocket-gallery/2023/05/)
+ 
 ### Referencias y Bibliografía
 
 * Amit Sood, **Taking curation to the next level with Pocket Gallery Editor** [consultado: 23/05/2023]. Disponible en: https://blog.google/outreach-initiatives/arts-culture/taking-curation-to-the-next-level-with-pocket-gallery-editor/
