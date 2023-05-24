@@ -82,10 +82,8 @@ Esta herramienta digital permite visitar exposiciones y museos 3D virtuales en g
 Según Lev Manovich, *se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones*. De mismo modo, en caso de Pocket Gallery se puede observar que esta tecnología combina una **representación de galerias y/o museos en mundo virtual**, **audio guía**, **navegación** como en *Google Street View* y otros elementos.
 
 <image src="/img/dentroArtGallery.png" alt="Logo de Kahoot" width="auto" height="auto">
- 
-### Conclusión
 
-
+ <hr> 
  
 ### Referencias y Bibliografía
 
